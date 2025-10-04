@@ -1,0 +1,21 @@
+{
+  "name": "learningpipelining",
+  "version": "1.0.0",
+  "description": "<!-- https://leetcode.com/problem-list/vvpvxr7t/ -->",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityapandeypandey2004-bit/devops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityapandeypandey2004-bit/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/adityapandeypandey2004-bit/devops-pipeline#readme"
+}
